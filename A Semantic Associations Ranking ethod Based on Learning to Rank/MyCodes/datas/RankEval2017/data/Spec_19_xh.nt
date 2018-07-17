@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Margaret_Thatcher> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/London> .
+<http://dbpedia.org/resource/United_Kingdom> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/London> .
+<http://dbpedia.org/resource/William_Hague> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/William_Hague> <http://dbpedia.org/ontology/primeMinister> <http://dbpedia.org/resource/Tony_Blair> .
+<http://dbpedia.org/resource/Hammersmith> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Mark_Thatcher> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Hammersmith> .

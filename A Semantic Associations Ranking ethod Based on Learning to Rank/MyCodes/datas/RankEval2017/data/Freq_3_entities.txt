@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Google>
+<http://dbpedia.org/resource/Yahoo!>

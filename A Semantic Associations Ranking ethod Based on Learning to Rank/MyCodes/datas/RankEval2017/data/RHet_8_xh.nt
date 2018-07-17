@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Fire_Serpent> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/William_Shatner> .
+<http://dbpedia.org/resource/Fire_Serpent> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Nicholas_Brendon> .
+<http://dbpedia.org/resource/Nicholas_Brendon> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Los_Angeles> .
+<http://dbpedia.org/resource/Leonard_Nimoy> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Los_Angeles> .

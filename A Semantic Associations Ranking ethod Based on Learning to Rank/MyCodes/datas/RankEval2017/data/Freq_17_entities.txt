@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Nanga_Parbat>
+<http://dbpedia.org/resource/Gasherbrum_I>
+<http://dbpedia.org/resource/K2>

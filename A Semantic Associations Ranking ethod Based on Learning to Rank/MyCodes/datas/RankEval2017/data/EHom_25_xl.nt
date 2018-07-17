@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Minecraft> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/IOS> .
+<http://dbpedia.org/resource/Terraria> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/IOS> .
+<http://dbpedia.org/resource/IOS> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Apple_Inc.> .
+<http://dbpedia.org/resource/OS_X> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Apple_Inc.> .
+<http://dbpedia.org/resource/League_of_Legends> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/OS_X> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/IPad> .
+<http://dbpedia.org/resource/Roblox> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/IPad> .

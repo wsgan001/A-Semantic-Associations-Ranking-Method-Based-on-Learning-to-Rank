@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/The_McCrarys> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/Cat_Stevens> .
+<http://dbpedia.org/resource/The_McCrarys> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Rhythm_and_blues> .
+<http://dbpedia.org/resource/Bluesology> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Rhythm_and_blues> .
+<http://dbpedia.org/resource/Bluesology> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/Elton_John> .

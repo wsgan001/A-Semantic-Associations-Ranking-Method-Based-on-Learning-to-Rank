@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Melon_de_Bourgogne> <http://dbpedia.org/ontology/species> <http://dbpedia.org/resource/Vitis_vinifera> .
+<http://dbpedia.org/resource/Savagnin> <http://dbpedia.org/ontology/species> <http://dbpedia.org/resource/Vitis_vinifera> .
+<http://dbpedia.org/resource/Balti_(wine)> <http://dbpedia.org/ontology/growingGrape> <http://dbpedia.org/resource/Savagnin> .
+<http://dbpedia.org/resource/Balti_(wine)> <http://dbpedia.org/ontology/growingGrape> <http://dbpedia.org/resource/Aligoté> .
+<http://dbpedia.org/resource/Grolleau_(grape)> <http://dbpedia.org/ontology/species> <http://dbpedia.org/resource/Vitis_vinifera> .

@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Samuel_D._Ingham> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/Andrew_Jackson> .
+<http://dbpedia.org/resource/Samuel_D._Ingham> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Louis_McLane> .
+<http://dbpedia.org/resource/Martin_Van_Buren> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Louis_McLane> .

@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Brooklyn_Bridge> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/56_Leonard_Street> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/56_Leonard_Street> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Statue_of_Liberty> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/56_Leonard_Street> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Manhattan> .
+<http://dbpedia.org/resource/Empire_State_Building> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Manhattan> .

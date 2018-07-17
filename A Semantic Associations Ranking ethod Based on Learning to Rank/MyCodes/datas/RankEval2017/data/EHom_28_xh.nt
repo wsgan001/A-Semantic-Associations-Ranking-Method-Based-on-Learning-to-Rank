@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Potsie_Weber> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Garry_Marshall> .
+<http://dbpedia.org/resource/Potsie_Weber> <http://dbpedia.org/ontology/portrayer> <http://dbpedia.org/resource/Anson_Williams> .
+<http://dbpedia.org/resource/Anson_Williams> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Barbara_Marshall> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Tracy_Reiner> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Your_Mother_Wears_Combat_Boots> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Anson_Williams> .
+<http://dbpedia.org/resource/Your_Mother_Wears_Combat_Boots> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Héctor_Elizondo> .

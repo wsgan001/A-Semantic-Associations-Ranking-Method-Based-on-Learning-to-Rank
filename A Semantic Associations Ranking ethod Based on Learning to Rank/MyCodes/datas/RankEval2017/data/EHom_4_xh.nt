@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Doyle_Bramhall_II> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/Elton_John> .
+<http://dbpedia.org/resource/Doyle_Bramhall_II> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Blues_rock> .
+<http://dbpedia.org/resource/Phil_Palmer> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Blues_rock> .
+<http://dbpedia.org/resource/Phil_Palmer> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/George_Michael> .

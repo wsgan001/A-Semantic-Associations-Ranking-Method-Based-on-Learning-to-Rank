@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Minecraft> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/Xbox_One> .
+<http://dbpedia.org/resource/Roblox> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Xbox_One> .
+<http://dbpedia.org/resource/Angry_Birds_Star_Wars> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Xbox_One> .
+<http://dbpedia.org/resource/Angry_Birds_Star_Wars> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/IOS> .
+<http://dbpedia.org/resource/Terraria> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/IOS> .
+<http://dbpedia.org/resource/Angry_Birds_Star_Wars> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/OS_X> .
+<http://dbpedia.org/resource/League_of_Legends> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/OS_X> .

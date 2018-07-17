@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Frankie_and_Johnny_(1991_film)> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Garry_Marshall> .
+<http://dbpedia.org/resource/Frankie_and_Johnny_(1991_film)> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Paramount_Pictures> .
+<http://dbpedia.org/resource/There_Goes_the_Neighborhood_(film)> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Paramount_Pictures> .
+<http://dbpedia.org/resource/There_Goes_the_Neighborhood_(film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Héctor_Elizondo> .
+<http://dbpedia.org/resource/Paramount_Pictures> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Barbara_Marshall> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Tracy_Reiner> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/United_States> .

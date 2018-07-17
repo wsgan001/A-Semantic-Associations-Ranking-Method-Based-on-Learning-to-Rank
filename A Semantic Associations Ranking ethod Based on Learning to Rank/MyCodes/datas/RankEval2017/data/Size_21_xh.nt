@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Juan_Carlos_I_of_Spain> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Queen_Sofía_of_Spain> .
+<http://dbpedia.org/resource/Felipe_VI_of_Spain> <http://dbpedia.org/ontology/parent> <http://dbpedia.org/resource/Queen_Sofía_of_Spain> .
+<http://dbpedia.org/resource/Spain> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Felipe_VI_of_Spain> .
+<http://dbpedia.org/resource/Infanta_Cristina_of_Spain> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Spain> .
+<http://dbpedia.org/resource/Felipe_VI_of_Spain> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Queen_Letizia_of_Spain> .

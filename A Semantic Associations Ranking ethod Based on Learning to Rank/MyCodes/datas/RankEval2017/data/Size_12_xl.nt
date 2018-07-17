@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Sherwood_Anderson> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/William_Faulkner> .
+<http://dbpedia.org/resource/Sherwood_Anderson> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/John_Steinbeck> .
+<http://dbpedia.org/resource/Sherwood_Anderson> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Charles_Bukowski> .
+<http://dbpedia.org/resource/Charles_Bukowski> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Ernest_Hemingway> .

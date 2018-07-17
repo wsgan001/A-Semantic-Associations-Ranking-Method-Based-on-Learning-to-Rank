@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Hillel_Slovak> <http://dbpedia.org/ontology/instrument> <http://dbpedia.org/resource/Sitar> .
+<http://dbpedia.org/resource/Raga_rock> <http://dbpedia.org/ontology/instrument> <http://dbpedia.org/resource/Sitar> .
+<http://dbpedia.org/resource/Behind_the_Sun_(song)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Raga_rock> .
+<http://dbpedia.org/resource/Behind_the_Sun_(song)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Anthony_Kiedis> .

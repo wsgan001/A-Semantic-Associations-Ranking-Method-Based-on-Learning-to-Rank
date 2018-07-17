@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Fuller's_Brewery> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Beer> .
+<http://dbpedia.org/resource/Fuller's_Brewery> <http://dbpedia.org/ontology/regionServed> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Tring_Brewery> <http://dbpedia.org/ontology/regionServed> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Tring_Brewery> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Ale> .

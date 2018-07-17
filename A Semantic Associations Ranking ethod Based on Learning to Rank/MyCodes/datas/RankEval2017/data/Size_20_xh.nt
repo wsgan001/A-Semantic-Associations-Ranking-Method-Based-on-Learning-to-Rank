@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Allan_Bloom> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Socrates> .
+<http://dbpedia.org/resource/Allan_Bloom> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Costanzo_Preve> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Costanzo_Preve> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Plato> .
+<http://dbpedia.org/resource/Christian_Wolff_(philosopher)> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Confucius> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Christian_Wolff_(philosopher)> .

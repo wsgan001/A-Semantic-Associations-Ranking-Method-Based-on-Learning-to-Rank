@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Amsterdam_University_College> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/VU_University_Amsterdam> .
+<http://dbpedia.org/resource/Amsterdam_University_College> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Amsterdam> .
+<http://dbpedia.org/resource/John_Huizinga> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Amsterdam> .
+<http://dbpedia.org/resource/John_Huizinga> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/University_of_Amsterdam> .

@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Juan_Carlos_I_of_Spain>
+<http://dbpedia.org/resource/Infanta_Elena,_Duchess_of_Lugo>

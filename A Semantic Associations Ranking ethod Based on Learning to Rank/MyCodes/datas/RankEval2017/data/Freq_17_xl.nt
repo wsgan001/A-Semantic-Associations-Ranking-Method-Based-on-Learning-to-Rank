@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Nanga_Parbat> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Pakistan> .
+<http://dbpedia.org/resource/Khunyang_Chhish> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Pakistan> .
+<http://dbpedia.org/resource/Khunyang_Chhish> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Gilgit-Baltistan> .
+<http://dbpedia.org/resource/K2> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Gilgit-Baltistan> .
+<http://dbpedia.org/resource/Gasherbrum_I> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Pakistan> .

@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/High_and_Low_(1963_film)> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Akira_Kurosawa> .
+<http://dbpedia.org/resource/High_and_Low_(1963_film)> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Tomoyuki_Tanaka> .
+<http://dbpedia.org/resource/Samurai_Assassin> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Tomoyuki_Tanaka> .
+<http://dbpedia.org/resource/Samurai_Assassin> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Toshiro_Mifune> .
+<http://dbpedia.org/resource/Tomoyuki_Tanaka> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Japan> .
+<http://dbpedia.org/resource/Takashi_Shimura> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Japan> .
+<http://dbpedia.org/resource/Kiyoshi_Kurosawa> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Japan> .

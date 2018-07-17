@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/George_de_Mohrenschildt> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/John_F._Kennedy> .
+<http://dbpedia.org/resource/George_de_Mohrenschildt> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Lee_Harvey_Oswald> .
+<http://dbpedia.org/resource/John_F._Kennedy> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Democratic_Party_(United_States)> .
+<http://dbpedia.org/resource/Caroline_Kennedy> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Democratic_Party_(United_States)> .
+<http://dbpedia.org/resource/King_Kennedy> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/John_F._Kennedy> .
+<http://dbpedia.org/resource/King_Kennedy> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Robert_F._Kennedy> .

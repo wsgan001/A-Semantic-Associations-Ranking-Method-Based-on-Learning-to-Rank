@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Fierce_Creatures> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/John_Cleese> .
+<http://dbpedia.org/resource/Fierce_Creatures> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Michael_Palin> .
+<http://dbpedia.org/resource/Monty_Python's_Flying_Circus> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Michael_Palin> .
+<http://dbpedia.org/resource/Monty_Python's_Flying_Circus> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Eric_Idle> .
+<http://dbpedia.org/resource/Python_Night_–_30_Years_of_Monty_Python> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Michael_Palin> .
+<http://dbpedia.org/resource/Python_Night_–_30_Years_of_Monty_Python> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Terry_Jones> .

@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Angela_Merkel> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Hamburg> .
+<http://dbpedia.org/resource/Hamburg> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Germany> .
+<http://dbpedia.org/resource/Christian_Democratic_Union_of_Germany> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Germany> .
+<http://dbpedia.org/resource/Wolfgang_Schäuble> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Christian_Democratic_Union_of_Germany> .

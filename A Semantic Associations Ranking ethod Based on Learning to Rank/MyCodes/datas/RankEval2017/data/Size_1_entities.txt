@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Margaret_Thatcher>
+<http://dbpedia.org/resource/Denis_Thatcher>

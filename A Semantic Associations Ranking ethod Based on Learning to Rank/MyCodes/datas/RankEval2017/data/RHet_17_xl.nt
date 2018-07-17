@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ganges> <http://dbpedia.org/ontology/sourceCountry> <http://dbpedia.org/resource/India> .
+<http://dbpedia.org/resource/Yamuna> <http://dbpedia.org/ontology/sourceCountry> <http://dbpedia.org/resource/India> .
+<http://dbpedia.org/resource/Sharda_River> <http://dbpedia.org/ontology/sourceCountry> <http://dbpedia.org/resource/India> .
+<http://dbpedia.org/resource/Sharda_River> <http://dbpedia.org/ontology/sourceCountry> <http://dbpedia.org/resource/Uttar_Pradesh> .
+<http://dbpedia.org/resource/Uttar_Pradesh> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Kumbh_Mela> .

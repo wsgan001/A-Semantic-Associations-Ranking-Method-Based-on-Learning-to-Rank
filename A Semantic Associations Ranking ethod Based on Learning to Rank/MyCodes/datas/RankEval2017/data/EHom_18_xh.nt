@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Lionel_Jospin> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/Jacques_Chirac> .
+<http://dbpedia.org/resource/Lionel_Jospin> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Maurice_Bourgès-Maunoury> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/François_Mitterrand> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Maurice_Bourgès-Maunoury> .
+<http://dbpedia.org/resource/Claude_Chirac> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Bernadette_Chirac> <http://dbpedia.org/ontology/relation> <http://dbpedia.org/resource/Claude_Chirac> .

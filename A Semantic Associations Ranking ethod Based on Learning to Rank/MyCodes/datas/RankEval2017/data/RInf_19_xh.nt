@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/United_Kingdom> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Elizabeth_II> .
+<http://dbpedia.org/resource/Royal_Navy> <http://dbpedia.org/ontology/garrison> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Royal_Navy> <http://dbpedia.org/ontology/garrison> <http://dbpedia.org/resource/London> .
+<http://dbpedia.org/resource/Charles,_Prince_of_Wales> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/London> .
+<http://dbpedia.org/resource/Algernon_Percy,_4th_Duke_of_Northumberland> <http://dbpedia.org/ontology/militaryBranch> <http://dbpedia.org/resource/Royal_Navy> .
+<http://dbpedia.org/resource/Algernon_Percy,_4th_Duke_of_Northumberland> <http://dbpedia.org/ontology/monarch> <http://dbpedia.org/resource/Queen_Victoria> .

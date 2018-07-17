@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Minecraft> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/Sony_Computer_Entertainment> .
+<http://dbpedia.org/resource/AFL_Premiership_2005> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/Sony_Computer_Entertainment> .
+<http://dbpedia.org/resource/AFL_Premiership_2005> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Microsoft_Windows> .
+<http://dbpedia.org/resource/League_of_Legends> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Microsoft_Windows> .
+<http://dbpedia.org/resource/Roblox> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Microsoft_Windows> .
+<http://dbpedia.org/resource/Terraria> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Microsoft_Windows> .

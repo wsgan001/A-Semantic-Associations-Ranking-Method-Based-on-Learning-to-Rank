@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/IBM> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Information_technology_consulting> .
+<http://dbpedia.org/resource/Profoundis> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Information_technology_consulting> .
+<http://dbpedia.org/resource/Profoundis> <http://dbpedia.org/ontology/locationCity> <http://dbpedia.org/resource/Palo_Alto,_California> .
+<http://dbpedia.org/resource/Hewlett-Packard> <http://dbpedia.org/ontology/locationCity> <http://dbpedia.org/resource/Palo_Alto,_California> .
+<http://dbpedia.org/resource/Profoundis> <http://dbpedia.org/ontology/service> <http://dbpedia.org/resource/Outsourcing> .
+<http://dbpedia.org/resource/Accenture> <http://dbpedia.org/ontology/service> <http://dbpedia.org/resource/Outsourcing> .
+<http://dbpedia.org/resource/Infosys> <http://dbpedia.org/ontology/service> <http://dbpedia.org/resource/Outsourcing> .

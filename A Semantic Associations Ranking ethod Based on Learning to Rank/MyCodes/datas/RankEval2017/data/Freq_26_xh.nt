@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Colin_Hanks> <http://dbpedia.org/ontology/parent> <http://dbpedia.org/resource/Rita_Wilson> .
+<http://dbpedia.org/resource/Colin_Hanks> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Toy_Story_Toons> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Toy_Story_Toons> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Tom_Hanks> .
+<http://dbpedia.org/resource/Emily_Blunt> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/John_Krasinski> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Emily_Blunt> .

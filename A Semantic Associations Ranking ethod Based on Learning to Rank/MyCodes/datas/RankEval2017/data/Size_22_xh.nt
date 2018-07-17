@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Amanda_Palmer> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Alternative_rock> .
+<http://dbpedia.org/resource/Morrissey> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Alternative_rock> .
+<http://dbpedia.org/resource/Brian_Viglione> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Alternative_rock> .
+<http://dbpedia.org/resource/Elephant_Elephant> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Amanda_Palmer> .
+<http://dbpedia.org/resource/Elephant_Elephant> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Jason_Webley> .

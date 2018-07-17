@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Bank_of_America>
+<http://dbpedia.org/resource/Capital_One>
+<http://dbpedia.org/resource/Citibank>
+<http://dbpedia.org/resource/Wells_Fargo>

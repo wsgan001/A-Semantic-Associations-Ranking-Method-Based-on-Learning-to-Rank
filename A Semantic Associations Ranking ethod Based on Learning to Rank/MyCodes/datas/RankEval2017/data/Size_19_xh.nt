@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Indo-Pakistani_War_of_1965> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/President_of_Pakistan> .
+<http://dbpedia.org/resource/Pervez_Musharraf> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Indo-Pakistani_War_of_1965> .
+<http://dbpedia.org/resource/Balochistan_conflict> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Pervez_Musharraf> .
+<http://dbpedia.org/resource/Balochistan_conflict> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Raheel_Sharif> .
+<http://dbpedia.org/resource/Jehangir_Khan_Tareen> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/Pervez_Musharraf> .
+<http://dbpedia.org/resource/Jehangir_Khan_Tareen> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/Asif_Ali_Zardari> .

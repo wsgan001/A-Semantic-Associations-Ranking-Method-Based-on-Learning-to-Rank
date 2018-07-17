@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Friends>
+<http://dbpedia.org/resource/Seinfeld>

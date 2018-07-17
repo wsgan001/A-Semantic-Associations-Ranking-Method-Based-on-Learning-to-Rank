@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Show_Me_the_Money_(U.S._TV_series)> <http://dbpedia.org/ontology/presenter> <http://dbpedia.org/resource/William_Shatner> .
+<http://dbpedia.org/resource/Show_Me_the_Money_(U.S._TV_series)> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Bel_Air,_Los_Angeles> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Leonard_Nimoy> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Bel_Air,_Los_Angeles> .

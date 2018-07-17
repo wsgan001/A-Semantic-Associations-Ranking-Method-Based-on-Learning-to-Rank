@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/George_Orwell> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Charles_Dickens> .
+<http://dbpedia.org/resource/George_Orwell> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Fyodor_Dostoyevsky> .
+<http://dbpedia.org/resource/Na'im_Akbar> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Fyodor_Dostoyevsky> .
+<http://dbpedia.org/resource/Na'im_Akbar> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Charles_Darwin> .
+<http://dbpedia.org/resource/William_Faulkner> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Fyodor_Dostoyevsky> .
+<http://dbpedia.org/resource/William_Faulkner> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/William_Shakespeare> .

@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/IBM>
+<http://dbpedia.org/resource/Intel>
+<http://dbpedia.org/resource/Hewlett-Packard>

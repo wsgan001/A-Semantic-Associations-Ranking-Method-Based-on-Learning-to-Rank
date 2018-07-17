@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Immanuel_Kant> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Martin_Heidegger> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Immanuel_Kant> .
+<http://dbpedia.org/resource/Martin_Heidegger> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Anaximander> .
+<http://dbpedia.org/resource/Anaximander> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Pythagoras> .

@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Mercer_Cook> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/John_F._Kennedy> .
+<http://dbpedia.org/resource/Mercer_Cook> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Catholic_Church> .
+<http://dbpedia.org/resource/James_P._Hosty> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Catholic_Church> .
+<http://dbpedia.org/resource/James_P._Hosty> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Lee_Harvey_Oswald> .
+<http://dbpedia.org/resource/John_Vernou_Bouvier_III> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Catholic_Church> .
+<http://dbpedia.org/resource/John_Vernou_Bouvier_III> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Jacqueline_Kennedy_Onassis> .

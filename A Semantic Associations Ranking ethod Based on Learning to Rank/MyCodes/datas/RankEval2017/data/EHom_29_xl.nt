@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/John_F._Kennedy> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Catholic_Church> .
+<http://dbpedia.org/resource/College_of_Saints_John_Fisher_&_Thomas_More> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/Catholic_Church> .
+<http://dbpedia.org/resource/College_of_Saints_John_Fisher_&_Thomas_More> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Robert_F._Kennedy> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/College_of_Saints_John_Fisher_&_Thomas_More> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Fort_Worth,_Texas> .
+<http://dbpedia.org/resource/Lee_Harvey_Oswald> <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/Fort_Worth,_Texas> .
+<http://dbpedia.org/resource/Caroline_Kennedy> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Catholic_Church> .

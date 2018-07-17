@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Robert_F._Kennedy> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/New_York> .
+<http://dbpedia.org/resource/Gisselle> <http://dbpedia.org/ontology/hometown> <http://dbpedia.org/resource/New_York> .
+<http://dbpedia.org/resource/Gisselle> <http://dbpedia.org/ontology/hometown> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Ted_Kennedy> <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/United_States> .

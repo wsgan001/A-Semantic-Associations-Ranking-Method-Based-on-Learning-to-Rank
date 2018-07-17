@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Tim_Burton>
+<http://dbpedia.org/resource/Winona_Ryder>
+<http://dbpedia.org/resource/Danny_Elfman>
+<http://dbpedia.org/resource/Johnny_Depp>

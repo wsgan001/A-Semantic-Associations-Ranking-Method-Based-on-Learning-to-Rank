@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Count_Dracula>
+<http://dbpedia.org/resource/Mina_Harker>

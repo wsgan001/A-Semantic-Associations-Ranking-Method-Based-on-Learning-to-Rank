@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Amblin_Entertainment> <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Steven_Spielberg> .
+<http://dbpedia.org/resource/Amblin_Entertainment> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/The_Big_Shave> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/The_Big_Shave> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Martin_Scorsese> .

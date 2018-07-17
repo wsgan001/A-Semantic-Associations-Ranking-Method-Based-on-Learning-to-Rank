@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Agent_Smith> <http://dbpedia.org/ontology/portrayer> <http://dbpedia.org/resource/Hugo_Weaving> .
+<http://dbpedia.org/resource/The_Matrix_(franchise)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Hugo_Weaving> .
+<http://dbpedia.org/resource/Trinity_(The_Matrix)> <http://dbpedia.org/ontology/series> <http://dbpedia.org/resource/The_Matrix_(franchise)> .
+<http://dbpedia.org/resource/Agent_Smith> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Agent_(The_Matrix)> .

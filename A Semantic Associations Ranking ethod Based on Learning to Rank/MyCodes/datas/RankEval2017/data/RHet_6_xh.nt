@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Jacques_Chirac> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Paris> .
+<http://dbpedia.org/resource/Roman_Polanski> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Paris> .
+<http://dbpedia.org/resource/Roman_Polanski> <http://dbpedia.org/ontology/citizenship> <http://dbpedia.org/resource/French_nationality_law> .
+<http://dbpedia.org/resource/Bernadette_Chirac> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/French_nationality_law> .

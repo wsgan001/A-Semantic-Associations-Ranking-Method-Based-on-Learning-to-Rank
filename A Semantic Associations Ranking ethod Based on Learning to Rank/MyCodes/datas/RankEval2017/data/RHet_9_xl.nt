@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Melon_de_Bourgogne> <http://dbpedia.org/ontology/origin> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Chancellor_(grape)> <http://dbpedia.org/ontology/origin> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/New_York_wine> <http://dbpedia.org/ontology/varietals> <http://dbpedia.org/resource/Chancellor_(grape)> .
+<http://dbpedia.org/resource/New_York_wine> <http://dbpedia.org/ontology/varietals> <http://dbpedia.org/resource/Chenin_blanc> .

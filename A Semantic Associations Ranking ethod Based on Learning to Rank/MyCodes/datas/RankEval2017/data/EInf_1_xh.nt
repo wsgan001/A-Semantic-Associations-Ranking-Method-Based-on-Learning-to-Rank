@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Margaret_Thatcher> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Politician> .
+<http://dbpedia.org/resource/George_B._Fitch> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Politician> .
+<http://dbpedia.org/resource/George_B._Fitch> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Businessperson> .
+<http://dbpedia.org/resource/Denis_Thatcher> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Businessperson> .

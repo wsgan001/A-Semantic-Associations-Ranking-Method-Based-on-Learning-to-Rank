@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Evil_Roy_Slade> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Garry_Marshall> .
+<http://dbpedia.org/resource/Evil_Roy_Slade> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Albuquerque,_New_Mexico> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Tracy_Reiner> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Albuquerque,_New_Mexico> .
+<http://dbpedia.org/resource/Popi_(TV_series)> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Popi_(TV_series)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Héctor_Elizondo> .
+<http://dbpedia.org/resource/Barbara_Marshall> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_States> .

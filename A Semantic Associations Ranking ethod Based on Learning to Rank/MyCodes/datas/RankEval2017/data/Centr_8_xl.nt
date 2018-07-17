@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Mitchell's_Brewery> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Beer> .
+<http://dbpedia.org/resource/Mitchell's_Brewery> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Brewing> .
+<http://dbpedia.org/resource/Tring_Brewery> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Brewing> .
+<http://dbpedia.org/resource/Tring_Brewery> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Ale> .

@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Brooklyn_Bridge> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Manhattan> .
+<http://dbpedia.org/resource/Hell's_Kitchen,_Manhattan> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Manhattan> .
+<http://dbpedia.org/resource/Hell's_Kitchen,_Manhattan> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Manhattan_Bridge> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/New_York_City> .

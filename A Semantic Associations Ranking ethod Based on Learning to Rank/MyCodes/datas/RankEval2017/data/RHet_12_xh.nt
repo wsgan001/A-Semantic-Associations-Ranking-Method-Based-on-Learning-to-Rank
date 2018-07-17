@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/William_Ecker> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Cuban_Missile_Crisis> .
+<http://dbpedia.org/resource/William_Ecker> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/World_War_II> .
+<http://dbpedia.org/resource/John_F._Kennedy> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/World_War_II> .
+<http://dbpedia.org/resource/Bay_of_Pigs_Invasion> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/John_F._Kennedy> .
+<http://dbpedia.org/resource/David_Fraser_(British_Army_officer)> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/World_War_II> .
+<http://dbpedia.org/resource/David_Fraser_(British_Army_officer)> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Suez_Crisis> .

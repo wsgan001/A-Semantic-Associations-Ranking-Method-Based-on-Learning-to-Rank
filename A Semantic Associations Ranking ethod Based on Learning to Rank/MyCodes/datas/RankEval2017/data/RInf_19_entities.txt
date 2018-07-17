@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Elizabeth_II>
+<http://dbpedia.org/resource/Charles,_Prince_of_Wales>
+<http://dbpedia.org/resource/Queen_Victoria>

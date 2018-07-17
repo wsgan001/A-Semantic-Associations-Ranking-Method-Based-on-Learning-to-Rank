@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/ontology/associate> <http://dbpedia.org/resource/John_Adams> .
+<http://dbpedia.org/resource/John_Adams> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/John_Quincy_Adams> .
+<http://dbpedia.org/resource/Henry_Adams> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/John_Quincy_Adams> .
+<http://dbpedia.org/resource/Henry_Adams> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Abraham_Lincoln> .

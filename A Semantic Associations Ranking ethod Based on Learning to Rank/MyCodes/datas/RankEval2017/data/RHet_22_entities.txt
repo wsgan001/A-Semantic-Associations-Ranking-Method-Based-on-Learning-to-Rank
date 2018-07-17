@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Akira_Kurosawa>
+<http://dbpedia.org/resource/Toshiro_Mifune>
+<http://dbpedia.org/resource/Kiyoshi_Kurosawa>
+<http://dbpedia.org/resource/Takashi_Shimura>

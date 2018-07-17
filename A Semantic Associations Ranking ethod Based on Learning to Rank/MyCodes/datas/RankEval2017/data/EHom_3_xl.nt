@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Brooklyn_Bridge> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Manhattan> .
+<http://dbpedia.org/resource/Abel_Kiviat> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Manhattan> .
+<http://dbpedia.org/resource/Abel_Kiviat> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Manhattan_Bridge> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/New_York_City> .

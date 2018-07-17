@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Hillel_Slovak> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Funk_rock> .
+<http://dbpedia.org/resource/Jack_Irons> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Funk_rock> .
+<http://dbpedia.org/resource/Jack_Irons> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/Red_Hot_Chili_Peppers> .
+<http://dbpedia.org/resource/Jack_Sherman_(guitarist)> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/Red_Hot_Chili_Peppers> .

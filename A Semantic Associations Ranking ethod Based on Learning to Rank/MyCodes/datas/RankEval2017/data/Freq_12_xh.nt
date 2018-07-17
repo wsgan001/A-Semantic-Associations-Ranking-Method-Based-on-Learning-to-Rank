@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Nikola_Tesla> <http://dbpedia.org/ontology/citizenship> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Rama_Bansil> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Rama_Bansil> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Physics> .
+<http://dbpedia.org/resource/Michael_Faraday> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Physics> .
+<http://dbpedia.org/resource/Thomas_Edison> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/United_States> .

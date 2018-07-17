@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Wu-Tang_Clan> <http://dbpedia.org/ontology/bandMember> <http://dbpedia.org/resource/Inspectah_Deck> .
+<http://dbpedia.org/resource/Inspectah_Deck> <http://dbpedia.org/ontology/hometown> <http://dbpedia.org/resource/Staten_Island> .
+<http://dbpedia.org/resource/Staten_Island> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/The_Notorious_B.I.G.> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/New_York_City> .

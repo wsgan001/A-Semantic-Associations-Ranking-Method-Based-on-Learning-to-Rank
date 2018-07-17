@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Francis_Ford_Coppola> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/California> .
+<http://dbpedia.org/resource/The_Fight_Magazine> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/California> .
+<http://dbpedia.org/resource/The_Fight_Magazine> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Talia_Shire> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/United_States> .

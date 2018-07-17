@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/The_Essential_Elvis_Presley> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Elvis_Presley> .
+<http://dbpedia.org/resource/The_Essential_Elvis_Presley> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Country_music> .
+<http://dbpedia.org/resource/Doug_Pettibone> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Country_music> .
+<http://dbpedia.org/resource/Doug_Pettibone> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/Lisa_Marie_Presley> .
+<http://dbpedia.org/resource/Ragged_Old_Flag> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Country_music> .
+<http://dbpedia.org/resource/Ragged_Old_Flag> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Johnny_Cash> .

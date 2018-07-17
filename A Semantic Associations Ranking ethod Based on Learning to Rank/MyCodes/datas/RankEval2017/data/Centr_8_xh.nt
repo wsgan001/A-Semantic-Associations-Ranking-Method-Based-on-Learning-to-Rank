@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Pabst_Brewing_Company> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Beer> .
+<http://dbpedia.org/resource/Pabst_Brewing_Company> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Alcoholic_beverage> .
+<http://dbpedia.org/resource/Bunker_Hill_Breweries> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Alcoholic_beverage> .
+<http://dbpedia.org/resource/Bunker_Hill_Breweries> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Ale> .

@@ -1,0 +1,25 @@
+//read query
+        File query = new File(queryName); // 要读取以上路径的input。txt文件  
+        InputStreamReader reader = null;
+		try {
+			reader = new InputStreamReader(new FileInputStream(query));
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} // 建立一个输入流对象reader  
+        BufferedReader br = new BufferedReader(reader); // 建立一个对象，它把文件内容转成计算机能读懂的语言  
+        String line = "";  
+        while (true) {  
+            try {
+				line = br.readLine();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				break;
+			} // 一次读入一行数据
+            if(line == null)break;
+        }
+        
+        
+instance_types_transitive_en.ttl
+'http://www.w3.org/1999/02/22-rdf-syntax-ns#type'

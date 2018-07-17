@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Game_of_Thrones> <http://dbpedia.org/ontology/format> <http://dbpedia.org/resource/1080i> .
+<http://dbpedia.org/resource/New_Girl> <http://dbpedia.org/ontology/format> <http://dbpedia.org/resource/1080i> .
+<http://dbpedia.org/resource/David_Iserson> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/New_Girl> .
+<http://dbpedia.org/resource/David_Iserson> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Mad_Men> .

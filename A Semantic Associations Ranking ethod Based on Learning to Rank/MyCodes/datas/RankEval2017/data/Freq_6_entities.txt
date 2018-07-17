@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Charles_Dickens>
+<http://dbpedia.org/resource/Mark_Twain>

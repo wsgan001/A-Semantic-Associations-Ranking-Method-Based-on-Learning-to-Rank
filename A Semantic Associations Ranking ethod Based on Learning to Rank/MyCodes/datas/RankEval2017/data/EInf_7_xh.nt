@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Charmed> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Fantasy> .
+<http://dbpedia.org/resource/Life,_the_Universe,_&_Everything> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Fantasy> .
+<http://dbpedia.org/resource/Life,_the_Universe,_&_Everything> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Horror_fiction> .
+<http://dbpedia.org/resource/Buffy_the_Vampire_Slayer> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Horror_fiction> .

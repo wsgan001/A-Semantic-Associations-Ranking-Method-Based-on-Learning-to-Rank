@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Akira_Kurosawa>
+<http://dbpedia.org/resource/Kiyoshi_Kurosawa>

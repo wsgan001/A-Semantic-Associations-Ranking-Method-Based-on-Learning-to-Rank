@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Loire_Valley_(wine)> <http://dbpedia.org/ontology/growingGrape> <http://dbpedia.org/resource/Melon_de_Bourgogne> .
+<http://dbpedia.org/resource/Cabernet_Franc> <http://dbpedia.org/ontology/wineRegion> <http://dbpedia.org/resource/Loire_Valley_(wine)> .
+<http://dbpedia.org/resource/Cabernet_Franc> <http://dbpedia.org/ontology/origin> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Chenin_blanc> <http://dbpedia.org/ontology/origin> <http://dbpedia.org/resource/France> .

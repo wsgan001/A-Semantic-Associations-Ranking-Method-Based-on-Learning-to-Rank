@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/White_Trash_Debutantes> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/Ramones> .
+<http://dbpedia.org/resource/White_Trash_Debutantes> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/Jayne_County> .
+<http://dbpedia.org/resource/Jayne_County> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Proto-punk> .
+<http://dbpedia.org/resource/The_Stooges> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Proto-punk> .

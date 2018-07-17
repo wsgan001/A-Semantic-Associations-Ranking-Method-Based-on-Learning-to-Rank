@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/IBM>
+<http://dbpedia.org/resource/Hewlett-Packard>

@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Milton_Grafman> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Martin_Luther_King,_Jr.> .
+<http://dbpedia.org/resource/Milton_Grafman> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Nelson_Mandela:_A_Biography_(1999)> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Nelson_Mandela:_A_Biography_(1999)> <http://dbpedia.org/ontology/nonFictionSubject> <http://dbpedia.org/resource/Nelson_Mandela> .
+<http://dbpedia.org/resource/Edythe_Scott_Bagley> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Edythe_Scott_Bagley> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Coretta_Scott_King> .

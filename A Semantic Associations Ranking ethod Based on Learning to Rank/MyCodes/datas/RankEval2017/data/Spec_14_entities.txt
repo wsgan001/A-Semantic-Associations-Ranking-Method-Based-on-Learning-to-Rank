@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Robert_F._Kennedy>
+<http://dbpedia.org/resource/Robert_F._Kennedy,_Jr.>
+<http://dbpedia.org/resource/Ted_Kennedy>

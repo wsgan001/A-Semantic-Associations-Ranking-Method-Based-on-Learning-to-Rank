@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Benjamin_Franklin> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Benjamin_Stoddert> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Benjamin_Stoddert> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/John_Adams> .
+<http://dbpedia.org/resource/Salmon_P._Chase> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Salmon_P._Chase> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/Abraham_Lincoln> .
+<http://dbpedia.org/resource/Deborah_Read> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Benjamin_Franklin> .

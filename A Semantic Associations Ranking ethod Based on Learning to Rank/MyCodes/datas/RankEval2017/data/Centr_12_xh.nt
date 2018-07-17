@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Nanga_Parbat> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Gilgit-Baltistan> .
+<http://dbpedia.org/resource/Gasherbrum_III> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Gilgit-Baltistan> .
+<http://dbpedia.org/resource/Gasherbrum_III> <http://dbpedia.org/ontology/mountainRange> <http://dbpedia.org/resource/Karakoram> .
+<http://dbpedia.org/resource/Gasherbrum_I> <http://dbpedia.org/ontology/mountainRange> <http://dbpedia.org/resource/Karakoram> .
+<http://dbpedia.org/resource/Gasherbrum_III> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Xinjiang> .
+<http://dbpedia.org/resource/K2> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Xinjiang> .

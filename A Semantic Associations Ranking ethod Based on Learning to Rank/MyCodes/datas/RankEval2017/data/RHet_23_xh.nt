@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Intel> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/IBM> <http://dbpedia.org/ontology/foundationPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Dell_AppAssure> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Dell_AppAssure> <http://dbpedia.org/ontology/owningCompany> <http://dbpedia.org/resource/Dell> .
+<http://dbpedia.org/resource/Dell_AppAssure> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Software> .
+<http://dbpedia.org/resource/Hewlett-Packard> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Software> .

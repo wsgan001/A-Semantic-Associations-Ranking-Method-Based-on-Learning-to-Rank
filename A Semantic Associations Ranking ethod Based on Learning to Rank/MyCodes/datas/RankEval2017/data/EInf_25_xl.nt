@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Statue_of_Liberty> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Sheryl_Crow_and_Friends:_Live_from_Central_Park> <http://dbpedia.org/ontology/recordedIn> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Sheryl_Crow_and_Friends:_Live_from_Central_Park> <http://dbpedia.org/ontology/recordedIn> <http://dbpedia.org/resource/Central_Park> .
+<http://dbpedia.org/resource/Fifth_Avenue> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Empire_State_Building> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Fifth_Avenue> .
+<http://dbpedia.org/resource/Despina_Storch> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Despina_Storch> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Ellis_Island> .

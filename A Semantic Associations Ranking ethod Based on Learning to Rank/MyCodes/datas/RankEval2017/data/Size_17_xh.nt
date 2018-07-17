@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Jacques_Chirac> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Bernadette_Chirac> .
+<http://dbpedia.org/resource/Jacques_Chirac> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Alain_Juppé> .
+<http://dbpedia.org/resource/Alain_Juppé> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Édouard_Balladur> .
+<http://dbpedia.org/resource/François_Mitterrand> <http://dbpedia.org/ontology/primeMinister> <http://dbpedia.org/resource/Édouard_Balladur> .

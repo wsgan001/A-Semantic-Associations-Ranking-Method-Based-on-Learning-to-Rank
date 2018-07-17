@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Bank_of_America> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/McLean,_Virginia> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Capital_One> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/McLean,_Virginia> .
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/ontology/largestCity> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Citibank> <http://dbpedia.org/ontology/locationCity> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/San_Francisco> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Wells_Fargo> <http://dbpedia.org/ontology/locationCity> <http://dbpedia.org/resource/San_Francisco> .

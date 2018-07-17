@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Jacques_Chirac>
+<http://dbpedia.org/resource/Bernadette_Chirac>

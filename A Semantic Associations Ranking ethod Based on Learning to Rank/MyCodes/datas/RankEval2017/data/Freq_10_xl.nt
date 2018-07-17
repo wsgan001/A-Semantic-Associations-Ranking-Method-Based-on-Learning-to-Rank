@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Minecraft> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/Xbox_One> .
+<http://dbpedia.org/resource/Angry_Birds_Star_Wars> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/Xbox_One> .
+<http://dbpedia.org/resource/Angry_Birds_Star_Wars> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Android_(operating_system)> .
+<http://dbpedia.org/resource/Roblox> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Android_(operating_system)> .

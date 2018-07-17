@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/What_the_Hell_Have_I> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Last_Action_Hero> .
+<http://dbpedia.org/resource/What_the_Hell_Have_I> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Atco_Records> .
+<http://dbpedia.org/resource/Atco_Records> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Predator_(film)> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .

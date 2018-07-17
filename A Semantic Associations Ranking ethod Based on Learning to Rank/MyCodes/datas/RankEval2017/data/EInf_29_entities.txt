@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Martin_Luther_King,_Jr.>
+<http://dbpedia.org/resource/Rosa_Parks>
+<http://dbpedia.org/resource/Mahatma_Gandhi>
+<http://dbpedia.org/resource/Malcolm_X>

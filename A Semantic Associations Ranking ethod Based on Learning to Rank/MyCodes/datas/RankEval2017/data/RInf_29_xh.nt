@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/John_F._Kennedy> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Christopher_G._Kennedy> <http://dbpedia.org/ontology/stateOfOrigin> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Robert_F._Kennedy> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Christopher_G._Kennedy> .
+<http://dbpedia.org/resource/Texas> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Lee_Harvey_Oswald> <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/Texas> .
+<http://dbpedia.org/resource/John_F._Kennedy> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Caroline_Kennedy> .

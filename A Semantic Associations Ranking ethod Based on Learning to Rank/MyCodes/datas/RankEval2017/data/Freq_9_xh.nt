@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Bank_of_America> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/California_Victory> <http://dbpedia.org/ontology/ground> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/California_Victory> <http://dbpedia.org/ontology/ground> <http://dbpedia.org/resource/San_Francisco> .
+<http://dbpedia.org/resource/Wells_Fargo> <http://dbpedia.org/ontology/locationCity> <http://dbpedia.org/resource/San_Francisco> .

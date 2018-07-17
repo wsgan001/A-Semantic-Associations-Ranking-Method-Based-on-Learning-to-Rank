@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Sword_for_Hire> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Akira_Kurosawa> .
+<http://dbpedia.org/resource/Sword_for_Hire> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Hiroshi_Inagaki> .
+<http://dbpedia.org/resource/Hiroshi_Inagaki> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Japan> .
+<http://dbpedia.org/resource/Takashi_Shimura> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Japan> .
+<http://dbpedia.org/resource/Kiyoshi_Kurosawa> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Japan> .
+<http://dbpedia.org/resource/Shinsengumi_(1969_film)> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Hiroshi_Inagaki> .
+<http://dbpedia.org/resource/Shinsengumi_(1969_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Toshiro_Mifune> .

@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/William_Faulkner>
+<http://dbpedia.org/resource/Ernest_Hemingway>
+<http://dbpedia.org/resource/John_Steinbeck>

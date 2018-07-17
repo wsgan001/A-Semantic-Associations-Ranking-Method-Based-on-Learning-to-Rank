@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Brooklyn_Bridge>
+<http://dbpedia.org/resource/Chinatown>
+<http://dbpedia.org/resource/Brooklyn_Bridge_Park>
+<http://dbpedia.org/resource/Empire_State_Building>

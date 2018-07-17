@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Minecraft> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/Sony_Computer_Entertainment> .
+<http://dbpedia.org/resource/Shenmue_III> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Sony_Computer_Entertainment> .
+<http://dbpedia.org/resource/Shenmue_III> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Microsoft_Windows> .
+<http://dbpedia.org/resource/Roblox> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Microsoft_Windows> .

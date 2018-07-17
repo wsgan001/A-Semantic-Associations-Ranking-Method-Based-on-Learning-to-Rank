@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Phil_Spector> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/Ramones> .
+<http://dbpedia.org/resource/Phil_Spector> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Rock_music> .
+<http://dbpedia.org/resource/Demons_(band)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Rock_music> .
+<http://dbpedia.org/resource/Demons_(band)> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/The_Stooges> .

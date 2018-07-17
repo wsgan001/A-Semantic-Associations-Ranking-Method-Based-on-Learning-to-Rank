@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/IBM_RPG> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/IBM> .
+<http://dbpedia.org/resource/RSTS/E> <http://dbpedia.org/ontology/programmingLanguage> <http://dbpedia.org/resource/IBM_RPG> .
+<http://dbpedia.org/resource/RSTS/E> <http://dbpedia.org/ontology/programmingLanguage> <http://dbpedia.org/resource/DATATRIEVE> .
+<http://dbpedia.org/resource/DATATRIEVE> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Hewlett-Packard> .

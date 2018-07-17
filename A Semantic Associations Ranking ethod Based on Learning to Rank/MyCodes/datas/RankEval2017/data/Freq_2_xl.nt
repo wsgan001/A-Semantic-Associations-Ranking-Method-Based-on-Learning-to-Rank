@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Mount_Olympus> <http://dbpedia.org/ontology/mountainRange> <http://dbpedia.org/resource/Thessaly> .
+<http://dbpedia.org/resource/Battle_of_Crocus_Field> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Thessaly> .
+<http://dbpedia.org/resource/Battle_of_Crocus_Field> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Greece> .
+<http://dbpedia.org/resource/Smolikas> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Greece> .

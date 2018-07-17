@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Noman_Ijaz> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/President_of_Pakistan> .
+<http://dbpedia.org/resource/Noman_Ijaz> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Pakistan> .
+<http://dbpedia.org/resource/Quetta> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Pakistan> .
+<http://dbpedia.org/resource/Raheel_Sharif> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Quetta> .
+<http://dbpedia.org/resource/Asif_Ali_Zardari> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Pakistan> .

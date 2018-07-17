@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Plato> .
+<http://dbpedia.org/resource/Plato> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Pythagoras> .

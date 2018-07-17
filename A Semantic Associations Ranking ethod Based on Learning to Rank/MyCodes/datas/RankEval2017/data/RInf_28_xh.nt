@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Clint_Eastwood> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Kyle_Eastwood> .
+<http://dbpedia.org/resource/Kyle_Eastwood> <http://dbpedia.org/ontology/hometown> <http://dbpedia.org/resource/California> .
+<http://dbpedia.org/resource/California> <http://dbpedia.org/ontology/largestCity> <http://dbpedia.org/resource/Los_Angeles> .
+<http://dbpedia.org/resource/Francesca_Eastwood> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/Los_Angeles> .
+<http://dbpedia.org/resource/San_Diego> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/California> .
+<http://dbpedia.org/resource/Scott_Eastwood> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/San_Diego> .
+<http://dbpedia.org/resource/Alison_Eastwood> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Kyle_Eastwood> .

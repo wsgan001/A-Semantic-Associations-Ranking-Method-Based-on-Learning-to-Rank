@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Courteney_Cox> .
+<http://dbpedia.org/resource/Cougar_Town> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Courteney_Cox> .
+<http://dbpedia.org/resource/Cougar_Town> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Sitcom> .
+<http://dbpedia.org/resource/Seinfeld> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Sitcom> .

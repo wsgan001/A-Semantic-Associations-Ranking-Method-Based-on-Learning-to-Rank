@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Minecraft> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Windows_Phone> .
+<http://dbpedia.org/resource/Microsoft_Lumia> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Windows_Phone> .
+<http://dbpedia.org/resource/Microsoft_Lumia> <http://dbpedia.org/ontology/operatingSystem> <http://dbpedia.org/resource/Microsoft_Windows> .
+<http://dbpedia.org/resource/League_of_Legends> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Microsoft_Windows> .
+<http://dbpedia.org/resource/Roblox> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Microsoft_Windows> .
+<http://dbpedia.org/resource/Terraria> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Microsoft_Windows> .

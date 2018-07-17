@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Bobby_Keys> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/Elvis_Presley> .
+<http://dbpedia.org/resource/Bobby_Keys> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/Harry_Nilsson> .
+<http://dbpedia.org/resource/Harry_Nilsson> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Brooklyn> .
+<http://dbpedia.org/resource/Priscilla_Presley> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Brooklyn> .

@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Committee_of_the_Whole_(short_story)> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Frank_Herbert> .
+<http://dbpedia.org/resource/Committee_of_the_Whole_(short_story)> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/School_of_the_Museum_of_Fine_Arts,_Boston> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/David_Lynch> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/School_of_the_Museum_of_Fine_Arts,_Boston> .
+<http://dbpedia.org/resource/Brooklyn> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Isaac_Asimov> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Brooklyn> .

@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Physics> .
+<http://dbpedia.org/resource/Galileo_Galilei> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Physics> .
+<http://dbpedia.org/resource/Robert_M._Pirsig> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Robert_M._Pirsig> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Plato> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Western_philosophy> .
+<http://dbpedia.org/resource/Pythagoras> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Western_philosophy> .

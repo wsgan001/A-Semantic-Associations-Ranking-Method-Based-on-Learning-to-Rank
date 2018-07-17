@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Garry_Marshall> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Northwestern_University> .
+<http://dbpedia.org/resource/Northwestern_University> <http://dbpedia.org/ontology/provost> <http://dbpedia.org/resource/Daniel_I._Linzer> .
+<http://dbpedia.org/resource/Daniel_I._Linzer> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Barbara_Marshall> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Tracy_Reiner> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/United_States> .

@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/The_Color_Purple_(film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Steven_Spielberg> .
+<http://dbpedia.org/resource/The_Color_Purple_(film)> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Warner_Bros.> .
+<http://dbpedia.org/resource/Love_Affair_(1994_film)> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Warner_Bros.> .
+<http://dbpedia.org/resource/Love_Affair_(1994_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Kate_Capshaw> .
+<http://dbpedia.org/resource/The_Aviator_(2004_film)> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Warner_Bros.> .
+<http://dbpedia.org/resource/The_Aviator_(2004_film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Martin_Scorsese> .

@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Darkness_on_the_Edge_of_Town> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Bruce_Springsteen> .
+<http://dbpedia.org/resource/Darkness_on_the_Edge_of_Town> <http://dbpedia.org/ontology/recordedIn> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/An_Innocent_Man> <http://dbpedia.org/ontology/recordedIn> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/An_Innocent_Man> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Billy_Joel> .

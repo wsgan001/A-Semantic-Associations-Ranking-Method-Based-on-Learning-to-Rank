@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Robert_Louis_Stevenson> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Charles_Dickens> .
+<http://dbpedia.org/resource/G._K._Chesterton> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Robert_Louis_Stevenson> .
+<http://dbpedia.org/resource/George_MacDonald> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/G._K._Chesterton> .
+<http://dbpedia.org/resource/George_MacDonald> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Mark_Twain> .

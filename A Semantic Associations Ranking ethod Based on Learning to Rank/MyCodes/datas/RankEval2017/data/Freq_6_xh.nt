@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Gene_Wolfe> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Charles_Dickens> .
+<http://dbpedia.org/resource/Vladimir_Nabokov> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Gene_Wolfe> .
+<http://dbpedia.org/resource/Mitch_Berman> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Vladimir_Nabokov> .
+<http://dbpedia.org/resource/Mitch_Berman> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Mark_Twain> .

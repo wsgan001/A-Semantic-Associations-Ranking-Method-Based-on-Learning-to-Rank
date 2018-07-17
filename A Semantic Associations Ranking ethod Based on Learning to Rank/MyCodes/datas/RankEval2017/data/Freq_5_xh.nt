@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Kakushi_Toride_no_San-Akunin:_The_Last_Princess> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Akira_Kurosawa> .
+<http://dbpedia.org/resource/Kakushi_Toride_no_San-Akunin:_The_Last_Princess> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Hiroshi_Abe_(actor)> .
+<http://dbpedia.org/resource/Hiroshi_Abe_(actor)> <http://dbpedia.org/ontology/stateOfOrigin> <http://dbpedia.org/resource/Japan> .
+<http://dbpedia.org/resource/Kiyoshi_Kurosawa> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Japan> .

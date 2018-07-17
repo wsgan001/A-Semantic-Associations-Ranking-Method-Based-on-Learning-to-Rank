@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Tom_Cruise>
+<http://dbpedia.org/resource/Brad_Pitt>
+<http://dbpedia.org/resource/Katie_Holmes>
+<http://dbpedia.org/resource/Mimi_Rogers>

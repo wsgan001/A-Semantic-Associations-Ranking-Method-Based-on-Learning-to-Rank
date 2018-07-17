@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Mariano_Rajoy> <http://dbpedia.org/ontology/monarch> <http://dbpedia.org/resource/Juan_Carlos_I_of_Spain> .
+<http://dbpedia.org/resource/Spain> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Mariano_Rajoy> .
+<http://dbpedia.org/resource/Madrid> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Spain> .
+<http://dbpedia.org/resource/Infanta_Elena,_Duchess_of_Lugo> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Madrid> .

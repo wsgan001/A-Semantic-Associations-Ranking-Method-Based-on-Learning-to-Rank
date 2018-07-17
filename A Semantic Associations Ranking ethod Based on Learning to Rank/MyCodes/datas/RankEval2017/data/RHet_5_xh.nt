@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/VU_University_Amsterdam> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Netherlands> .
+<http://dbpedia.org/resource/Wim_Kok> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/Netherlands> .
+<http://dbpedia.org/resource/Hans_Hoogervorst> <http://dbpedia.org/ontology/primeMinister> <http://dbpedia.org/resource/Wim_Kok> .
+<http://dbpedia.org/resource/Hans_Hoogervorst> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/University_of_Amsterdam> .

@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Manhattan_Bridge> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Jamie_Gillis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Jamie_Gillis> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Verrazano–Narrows_Bridge> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Queensboro_Bridge> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Williamsburg_Bridge> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/New_York_City> .

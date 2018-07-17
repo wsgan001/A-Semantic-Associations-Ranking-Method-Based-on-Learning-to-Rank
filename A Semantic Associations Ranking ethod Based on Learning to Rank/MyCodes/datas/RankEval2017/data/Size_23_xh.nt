@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Air_China> <http://dbpedia.org/ontology/parentCompany> <http://dbpedia.org/resource/Cathay_Pacific> .
+<http://dbpedia.org/resource/Air_China> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Aviation> .
+<http://dbpedia.org/resource/China_Southern_Airlines> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Aviation> .
+<http://dbpedia.org/resource/China_General_Aviation> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Aviation> .
+<http://dbpedia.org/resource/China_General_Aviation> <http://dbpedia.org/ontology/parentCompany> <http://dbpedia.org/resource/China_Eastern_Airlines> .

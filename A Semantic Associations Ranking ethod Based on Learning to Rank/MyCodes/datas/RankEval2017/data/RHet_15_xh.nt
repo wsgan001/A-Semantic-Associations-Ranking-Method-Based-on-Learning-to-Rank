@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/John_Fowles> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Charles_Dickens> .
+<http://dbpedia.org/resource/John_Fowles> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/William_Shakespeare> .
+<http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/William_Shakespeare> .
+<http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Charles_Darwin> .

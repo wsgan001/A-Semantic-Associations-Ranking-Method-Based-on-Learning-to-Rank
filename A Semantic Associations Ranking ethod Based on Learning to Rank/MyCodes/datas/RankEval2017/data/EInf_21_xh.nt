@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Colonel_Kurtz> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Francis_Ford_Coppola> .
+<http://dbpedia.org/resource/Colonel_Kurtz> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/The_Big_Shave> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/The_Big_Shave> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Martin_Scorsese> .
+<http://dbpedia.org/resource/Hearts_of_Darkness:_A_Filmmaker's_Apocalypse> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Hearts_of_Darkness:_A_Filmmaker's_Apocalypse> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Sofia_Coppola> .
+<http://dbpedia.org/resource/Marlon_Brando> <http://dbpedia.org/ontology/hometown> <http://dbpedia.org/resource/United_States> .

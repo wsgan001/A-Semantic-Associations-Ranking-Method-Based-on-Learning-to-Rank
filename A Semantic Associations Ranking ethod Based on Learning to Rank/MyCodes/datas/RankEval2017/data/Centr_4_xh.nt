@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Count_Dracula> <http://dbpedia.org/ontology/series> <http://dbpedia.org/resource/Dracula> .
+<http://dbpedia.org/resource/Jonathan_Harker> <http://dbpedia.org/ontology/series> <http://dbpedia.org/resource/Dracula> .
+<http://dbpedia.org/resource/Mina_Harker> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Jonathan_Harker> .

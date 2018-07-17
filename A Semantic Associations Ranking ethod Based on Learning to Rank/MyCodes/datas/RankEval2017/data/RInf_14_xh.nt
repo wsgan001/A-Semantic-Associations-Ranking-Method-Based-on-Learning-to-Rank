@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Steve_Jobs> <http://dbpedia.org/ontology/board> <http://dbpedia.org/resource/The_Walt_Disney_Company> .
+<http://dbpedia.org/resource/The_Walt_Disney_Company> <http://dbpedia.org/ontology/foundationPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Bill_&_Melinda_Gates_Foundation> <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Bill_Gates> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Bill_&_Melinda_Gates_Foundation> .
+<http://dbpedia.org/resource/University_of_California,_Berkeley> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Steve_Wozniak> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/University_of_California,_Berkeley> .

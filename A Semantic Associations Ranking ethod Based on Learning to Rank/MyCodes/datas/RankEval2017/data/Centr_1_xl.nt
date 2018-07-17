@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Falkland_Islands> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Elizabeth_II> .
+<http://dbpedia.org/resource/Mike_Rendell> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Falkland_Islands> .
+<http://dbpedia.org/resource/Mike_Rendell> <http://dbpedia.org/ontology/militaryBranch> <http://dbpedia.org/resource/Royal_Marines> .
+<http://dbpedia.org/resource/Royal_Marines> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Prince_Philip,_Duke_of_Edinburgh> .

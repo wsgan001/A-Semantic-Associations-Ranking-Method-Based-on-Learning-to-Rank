@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Ramones>
+<http://dbpedia.org/resource/The_Stooges>

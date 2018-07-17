@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/IBM_Academic_Operating_System> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/IBM> .
+<http://dbpedia.org/resource/IBM_Academic_Operating_System> <http://dbpedia.org/ontology/programmingLanguage> <http://dbpedia.org/resource/C_(programming_language)> .
+<http://dbpedia.org/resource/OpenVMS> <http://dbpedia.org/ontology/programmingLanguage> <http://dbpedia.org/resource/C_(programming_language)> .
+<http://dbpedia.org/resource/OpenVMS> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Hewlett-Packard> .

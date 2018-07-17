@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Bank_of_America> <http://dbpedia.org/ontology/locationCity> <http://dbpedia.org/resource/Charlotte,_North_Carolina> .
+<http://dbpedia.org/resource/Fox_Sports_Carolinas> <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/Charlotte,_North_Carolina> .
+<http://dbpedia.org/resource/Fox_Sports_Carolinas> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Wells_Fargo> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/United_States> .

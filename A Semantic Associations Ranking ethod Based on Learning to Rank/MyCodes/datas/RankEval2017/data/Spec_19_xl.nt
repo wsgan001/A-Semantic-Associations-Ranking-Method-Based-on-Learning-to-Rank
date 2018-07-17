@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Denis_Thatcher> <http://dbpedia.org/ontology/primeMinister> <http://dbpedia.org/resource/Margaret_Thatcher> .
+<http://dbpedia.org/resource/Denis_Thatcher> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/British_nationality_law> .
+<http://dbpedia.org/resource/Mark_Thatcher> <http://dbpedia.org/ontology/stateOfOrigin> <http://dbpedia.org/resource/British_nationality_law> .
+<http://dbpedia.org/resource/Denis_Thatcher> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Tony_Blair> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/United_Kingdom> .

@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Viking_Press> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/The_Warriors_(Sol_Yurick_novel)> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/The_Warriors_(Sol_Yurick_novel)> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/E._P._Dutton> .
+<http://dbpedia.org/resource/E._P._Dutton> <http://dbpedia.org/ontology/parentCompany> <http://dbpedia.org/resource/Penguin_Group> .

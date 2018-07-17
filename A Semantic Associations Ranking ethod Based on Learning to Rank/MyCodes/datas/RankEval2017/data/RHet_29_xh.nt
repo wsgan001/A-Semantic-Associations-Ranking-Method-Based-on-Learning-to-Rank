@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Manhattan_Bridge> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/New_York> <http://dbpedia.org/ontology/largestCity> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/MTA_Bridges_and_Tunnels> <http://dbpedia.org/ontology/foundationPlace> <http://dbpedia.org/resource/New_York> .
+<http://dbpedia.org/resource/Verrazano–Narrows_Bridge> <http://dbpedia.org/ontology/maintainedBy> <http://dbpedia.org/resource/MTA_Bridges_and_Tunnels> .
+<http://dbpedia.org/resource/Brooklyn> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/New_York> .
+<http://dbpedia.org/resource/Williamsburg_Bridge> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Brooklyn> .
+<http://dbpedia.org/resource/Queensboro_Bridge> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/New_York_City> .

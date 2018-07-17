@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Tom_Hanks> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/California> .
+<http://dbpedia.org/resource/Selma_Blair> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/California> .
+<http://dbpedia.org/resource/WΔZ> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Selma_Blair> .
+<http://dbpedia.org/resource/WΔZ> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Tom_Hardy> .
+<http://dbpedia.org/resource/My_Mom's_New_Boyfriend> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Selma_Blair> .
+<http://dbpedia.org/resource/My_Mom's_New_Boyfriend> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Colin_Hanks> .

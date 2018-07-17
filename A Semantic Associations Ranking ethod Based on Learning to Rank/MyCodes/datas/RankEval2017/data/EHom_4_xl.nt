@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Elton_John> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Bluesology> .
+<http://dbpedia.org/resource/Bluesology> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Polydor_Records> .
+<http://dbpedia.org/resource/Shoot_the_Dog> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Polydor_Records> .
+<http://dbpedia.org/resource/Shoot_the_Dog> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/George_Michael> .

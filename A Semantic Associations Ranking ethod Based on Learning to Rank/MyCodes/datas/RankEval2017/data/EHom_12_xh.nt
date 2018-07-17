@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Syed_Sajjad_Ali_Shah> <http://dbpedia.org/ontology/appointer> <http://dbpedia.org/resource/President_of_Pakistan> .
+<http://dbpedia.org/resource/Syed_Sajjad_Ali_Shah> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Pakistan> .
+<http://dbpedia.org/resource/Ashfaq_Parvez_Kayani> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Pakistan> .
+<http://dbpedia.org/resource/Raheel_Sharif> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Ashfaq_Parvez_Kayani> .
+<http://dbpedia.org/resource/Pakistan_Peoples_Party> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Pakistan> .
+<http://dbpedia.org/resource/Asif_Ali_Zardari> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Pakistan_Peoples_Party> .

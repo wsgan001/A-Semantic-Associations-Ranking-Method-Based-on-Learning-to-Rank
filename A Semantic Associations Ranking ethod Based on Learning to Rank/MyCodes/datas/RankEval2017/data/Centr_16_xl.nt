@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Thomas_Paine> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Abraham_Lincoln> .
+<http://dbpedia.org/resource/Thomas_Paine> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Kingdom_of_Great_Britain> .
+<http://dbpedia.org/resource/George_Washington> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Kingdom_of_Great_Britain> .
+<http://dbpedia.org/resource/Mary_Todd_Lincoln> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Abraham_Lincoln> .

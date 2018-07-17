@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Sam_Catlin> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Breaking_Bad> .
+<http://dbpedia.org/resource/Sam_Catlin> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/HBO> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/The_Sopranos> <http://dbpedia.org/ontology/network> <http://dbpedia.org/resource/HBO> .

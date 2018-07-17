@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Leo_Tolstoy> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/War_and_Peace> .
+<http://dbpedia.org/resource/Leo_Tolstoy> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Russian_Empire> .
+<http://dbpedia.org/resource/Fyodor_Dostoyevsky> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Russian_Empire> .
+<http://dbpedia.org/resource/Fyodor_Dostoyevsky> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/The_Brothers_Karamazov> .
+<http://dbpedia.org/resource/Fyodor_Dostoyevsky> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Crime_and_Punishment> .

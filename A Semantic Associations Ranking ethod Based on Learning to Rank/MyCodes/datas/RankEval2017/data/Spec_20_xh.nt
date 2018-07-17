@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Amblin_Entertainment> <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Steven_Spielberg> .
+<http://dbpedia.org/resource/Amblin_Entertainment> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Fort_Worth,_Texas> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Kate_Capshaw> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Fort_Worth,_Texas> .
+<http://dbpedia.org/resource/Flushing,_Queens> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Martin_Scorsese> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Flushing,_Queens> .

@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Syed_Sajjad_Ali_Shah> <http://dbpedia.org/ontology/appointer> <http://dbpedia.org/resource/President_of_Pakistan> .
+<http://dbpedia.org/resource/Syed_Sajjad_Ali_Shah> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Pakistan> .
+<http://dbpedia.org/resource/Pakistan_Military_Academy> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Pakistan> .
+<http://dbpedia.org/resource/Raheel_Sharif> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Pakistan_Military_Academy> .

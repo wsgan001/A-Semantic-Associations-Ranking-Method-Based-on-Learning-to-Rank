@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Angela_Merkel>
+<http://dbpedia.org/resource/Wolfgang_Schäuble>

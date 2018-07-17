@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/W._Willard_Wirtz> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/John_F._Kennedy> .
+<http://dbpedia.org/resource/W._Willard_Wirtz> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Jack_Ruby> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Lee_Harvey_Oswald> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Jack_Ruby> .
+<http://dbpedia.org/resource/Robert_F._Kennedy> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/United_States> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Barack_Obama> .
+<http://dbpedia.org/resource/Caroline_Kennedy> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/Barack_Obama> .

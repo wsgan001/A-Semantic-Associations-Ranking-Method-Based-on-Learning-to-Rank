@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Pope_John_Paul_II> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Vatican_City> .
+<http://dbpedia.org/resource/Pope_John_XXIII> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Vatican_City> .
+<http://dbpedia.org/resource/Pope_John_Paul_I> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Vatican_City> .
+<http://dbpedia.org/resource/Vatican_Television_Center> <http://dbpedia.org/ontology/foundedBy> <http://dbpedia.org/resource/Pope_John_Paul_II> .
+<http://dbpedia.org/resource/Vatican_Television_Center> <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Pope_Francis> .

@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Jacques_Chirac> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Bernadette_Chirac> .
+<http://dbpedia.org/resource/Jacques_Chirac> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Laurent_Fabius> .
+<http://dbpedia.org/resource/Laurent_Fabius> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/François_Mitterrand> .

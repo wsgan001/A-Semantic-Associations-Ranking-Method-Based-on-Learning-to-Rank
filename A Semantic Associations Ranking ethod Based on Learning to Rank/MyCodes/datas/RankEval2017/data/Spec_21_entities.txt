@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Juan_Carlos_I_of_Spain>
+<http://dbpedia.org/resource/Queen_Letizia_of_Spain>
+<http://dbpedia.org/resource/Queen_Sofía_of_Spain>
+<http://dbpedia.org/resource/Infanta_Cristina_of_Spain>

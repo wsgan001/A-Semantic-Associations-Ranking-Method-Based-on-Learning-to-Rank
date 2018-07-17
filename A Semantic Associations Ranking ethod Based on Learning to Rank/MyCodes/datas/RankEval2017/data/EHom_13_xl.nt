@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Hillel_Slovak> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Funk_metal> .
+<http://dbpedia.org/resource/Red_Hot_Chili_Peppers> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Funk_metal> .
+<http://dbpedia.org/resource/True_Men_Don't_Kill_Coyotes> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Red_Hot_Chili_Peppers> .
+<http://dbpedia.org/resource/True_Men_Don't_Kill_Coyotes> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Jack_Sherman_(guitarist)> .
+<http://dbpedia.org/resource/Pearl_Jam> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/Red_Hot_Chili_Peppers> .
+<http://dbpedia.org/resource/Pearl_Jam> <http://dbpedia.org/ontology/formerBandMember> <http://dbpedia.org/resource/Jack_Irons> .

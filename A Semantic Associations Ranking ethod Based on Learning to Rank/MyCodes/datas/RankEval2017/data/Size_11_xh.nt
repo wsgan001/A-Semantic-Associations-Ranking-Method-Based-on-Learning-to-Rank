@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Bridget_Fonda> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Henry_Fonda> .
+<http://dbpedia.org/resource/Bridget_Fonda> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Los_Angeles> .
+<http://dbpedia.org/resource/Charles_Bronson> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Los_Angeles> .
+<http://dbpedia.org/resource/Henry_Fonda> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Peter_Fonda> .

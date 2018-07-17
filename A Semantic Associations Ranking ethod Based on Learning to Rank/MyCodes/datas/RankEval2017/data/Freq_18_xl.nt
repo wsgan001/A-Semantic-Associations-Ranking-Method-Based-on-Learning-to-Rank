@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Air_China> <http://dbpedia.org/ontology/hubAirport> <http://dbpedia.org/resource/Beijing_Capital_International_Airport> .
+<http://dbpedia.org/resource/China_Southern_Airlines> <http://dbpedia.org/ontology/hubAirport> <http://dbpedia.org/resource/Beijing_Capital_International_Airport> .
+<http://dbpedia.org/resource/Hainan_Airlines> <http://dbpedia.org/ontology/hubAirport> <http://dbpedia.org/resource/Beijing_Capital_International_Airport> .
+<http://dbpedia.org/resource/Hainan_Airlines> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Aviation> .
+<http://dbpedia.org/resource/Air_Canada> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Aviation> .

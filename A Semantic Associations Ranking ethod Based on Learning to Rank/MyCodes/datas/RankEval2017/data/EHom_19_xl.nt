@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Another_Wild_Idea> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Hal_Roach> .
+<http://dbpedia.org/resource/Another_Wild_Idea> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Metro-Goldwyn-Mayer> .
+<http://dbpedia.org/resource/Metro-Goldwyn-Mayer> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/George_McFarland> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Harold_Lloyd> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/United_States> .

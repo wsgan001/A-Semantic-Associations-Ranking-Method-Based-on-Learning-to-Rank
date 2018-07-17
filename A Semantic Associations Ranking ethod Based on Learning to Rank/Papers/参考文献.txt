@@ -1,0 +1,19 @@
+Learning to Rank Complex Semantic Relationships
+
+An Empirical Evaluation of Techniques for Ranking Semantic Associations
+
+Learning to rank for information retrieval
+
+DBpedia – A Large-scale, MultilingualKnowledge Base Extracted from Wikipedia
+
+G. Cheng, D. Liu, and Y. Qu, “Efficient algorithms for association finding and frequent association pattern mining,” in Proc. 15th Int. Semantic Web Conf., Oct. 2016, pp. 119–134, doi: 10.1007/978–3-319-46523-4_8.
+
+ G. Cheng, Y. Zhang, and Y. Qu, “Explass: Exploring associations between entities via top-K ontological patterns and facets,” in Proc. 13th Int. Semantic Web Conf., Oct. 2014, pp. 422–437, doi:10.1007/978–3-319-11915-1_27.
+
+[16] P. Heim, S. Lohmann, and T. Stegemann, “Interactive relationship discovery via the Semantic Web,” in Proc. 7th Extended Semantic Web Conf., May/Jun. 2010, pp. 303–317, doi: 10.1007/978–3-642-13486-9_21.
+
+Ranking Complex Relationships on the Semantic Web
+
+一种语义搜索中的关联关系排序方法
+
+From_ranknet_to_lambdarank_to_lambdamart_An_overvi

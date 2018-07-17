@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Jack_Kerouac> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Tom_Wolfe> .
+<http://dbpedia.org/resource/Tom_Wolfe> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Hunter_S._Thompson> .
+<http://dbpedia.org/resource/Ken_Kesey> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Hunter_S._Thompson> .
+<http://dbpedia.org/resource/William_S._Burroughs> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Ken_Kesey> .

@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Tom_Hanks>
+<http://dbpedia.org/resource/Tom_Hardy>
+<http://dbpedia.org/resource/Colin_Hanks>

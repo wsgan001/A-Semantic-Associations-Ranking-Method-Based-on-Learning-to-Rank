@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Mount_Everest> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Tibet_Autonomous_Region> .
+<http://dbpedia.org/resource/Makalu> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Tibet_Autonomous_Region> .
+<http://dbpedia.org/resource/Makalu> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/China> .
+<http://dbpedia.org/resource/K2> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/China> .

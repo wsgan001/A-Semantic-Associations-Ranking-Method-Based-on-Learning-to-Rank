@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Mark_James_(songwriter)> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/Elvis_Presley> .
+<http://dbpedia.org/resource/Mark_James_(songwriter)> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Singing> .
+<http://dbpedia.org/resource/Benmont_Tench> <http://dbpedia.org/ontology/instrument> <http://dbpedia.org/resource/Singing> .
+<http://dbpedia.org/resource/Benmont_Tench> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/Johnny_Cash> .
+<http://dbpedia.org/resource/Navarone_Garibaldi> <http://dbpedia.org/ontology/instrument> <http://dbpedia.org/resource/Singing> .
+<http://dbpedia.org/resource/Lisa_Marie_Presley> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Navarone_Garibaldi> .

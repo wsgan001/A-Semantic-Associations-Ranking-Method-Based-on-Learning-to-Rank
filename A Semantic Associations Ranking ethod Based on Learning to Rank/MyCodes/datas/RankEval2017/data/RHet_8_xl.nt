@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Disaster_on_the_Coastliner> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/William_Shatner> .
+<http://dbpedia.org/resource/Disaster_on_the_Coastliner> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Lloyd_Bridges> .
+<http://dbpedia.org/resource/Lloyd_Bridges> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Los_Angeles> .
+<http://dbpedia.org/resource/Leonard_Nimoy> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Los_Angeles> .

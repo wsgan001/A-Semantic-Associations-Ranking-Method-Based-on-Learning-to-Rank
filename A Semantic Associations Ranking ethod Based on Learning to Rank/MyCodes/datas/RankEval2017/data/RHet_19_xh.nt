@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Brooklyn_Bridge> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Brooklyn> .
+<http://dbpedia.org/resource/Brooklyn> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/New_York_City> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Statue_of_Liberty> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Empire_Building_(Manhattan)> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Empire_State_Building> <http://www.w3.org/2002/07/owl#differentFrom> <http://dbpedia.org/resource/Empire_Building_(Manhattan)> .

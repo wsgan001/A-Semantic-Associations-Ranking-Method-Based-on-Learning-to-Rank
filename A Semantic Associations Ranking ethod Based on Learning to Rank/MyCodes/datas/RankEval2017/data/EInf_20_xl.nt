@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Charles_Arden-Clarke> <http://dbpedia.org/ontology/monarch> <http://dbpedia.org/resource/Elizabeth_II> .
+<http://dbpedia.org/resource/Charles_Arden-Clarke> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/England> .
+<http://dbpedia.org/resource/Jeremy_Lascelles> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/England> .
+<http://dbpedia.org/resource/Jeremy_Lascelles> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Charles,_Prince_of_Wales> .
+<http://dbpedia.org/resource/Windsor,_Berkshire> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/England> .
+<http://dbpedia.org/resource/Queen_Victoria> <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/Windsor,_Berkshire> .

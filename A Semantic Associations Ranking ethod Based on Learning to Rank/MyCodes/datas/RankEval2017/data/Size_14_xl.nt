@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Jason_Schwartzman> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Francis_Ford_Coppola> .
+<http://dbpedia.org/resource/Jason_Schwartzman> <http://dbpedia.org/ontology/parent> <http://dbpedia.org/resource/Talia_Shire> .
+<http://dbpedia.org/resource/Christopher_Coppola> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Jason_Schwartzman> .
+<http://dbpedia.org/resource/Christopher_Coppola> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Sofia_Coppola> .

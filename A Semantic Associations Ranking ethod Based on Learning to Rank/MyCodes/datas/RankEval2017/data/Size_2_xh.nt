@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/1st_Connecticut_Heavy_Artillery_Regiment> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Battle_of_Gettysburg> .
+<http://dbpedia.org/resource/1st_Connecticut_Heavy_Artillery_Regiment> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Siege_of_Yorktown_(1862)> .
+<http://dbpedia.org/resource/Siege_of_Yorktown_(1862)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Joseph_E._Johnston> .
+<http://dbpedia.org/resource/Joseph_E._Johnston> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/First_Battle_of_Bull_Run> .

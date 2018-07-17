@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Clint_Eastwood> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/San_Francisco> .
+<http://dbpedia.org/resource/San_Francisco> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/California> .
+<http://dbpedia.org/resource/San_Diego> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/California> .
+<http://dbpedia.org/resource/Scott_Eastwood> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/San_Diego> .
+<http://dbpedia.org/resource/Francesca_Eastwood> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/California> .
+<http://dbpedia.org/resource/Francesca_Eastwood> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Alison_Eastwood> .

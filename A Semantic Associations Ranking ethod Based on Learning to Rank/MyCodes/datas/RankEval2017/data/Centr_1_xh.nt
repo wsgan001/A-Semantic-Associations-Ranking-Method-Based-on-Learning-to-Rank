@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/United_Kingdom> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Elizabeth_II> .
+<http://dbpedia.org/resource/Nigel_Cecil> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Nigel_Cecil> <http://dbpedia.org/ontology/militaryBranch> <http://dbpedia.org/resource/Royal_Navy> .
+<http://dbpedia.org/resource/Royal_Navy> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Prince_Philip,_Duke_of_Edinburgh> .

@@ -1,0 +1,7 @@
+<http://dbpedia.org/resource/Bruce_Lee> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Hong_Kong> .
+<http://dbpedia.org/resource/OzForex> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Hong_Kong> .
+<http://dbpedia.org/resource/OzForex> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Linda_Lee_Cadwell> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/OzForex> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/China> .
+<http://dbpedia.org/resource/Shannon_Lee> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/China> .
+<http://dbpedia.org/resource/Jackie_Chan> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/China> .

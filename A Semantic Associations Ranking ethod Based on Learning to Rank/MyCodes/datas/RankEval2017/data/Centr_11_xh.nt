@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/God_Emperor_of_Dune> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Frank_Herbert> .
+<http://dbpedia.org/resource/God_Emperor_of_Dune> <http://dbpedia.org/ontology/literaryGenre> <http://dbpedia.org/resource/Science_fiction> .
+<http://dbpedia.org/resource/Haruki_Murakami> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Science_fiction> .
+<http://dbpedia.org/resource/Haruki_Murakami> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/David_Lynch> .
+<http://dbpedia.org/resource/Lin_Carter> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Science_fiction> .
+<http://dbpedia.org/resource/Lin_Carter> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Isaac_Asimov> .

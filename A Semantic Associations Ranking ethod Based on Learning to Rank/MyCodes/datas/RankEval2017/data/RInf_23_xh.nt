@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Henry_Fonda> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Peter_Fonda> .
+<http://dbpedia.org/resource/Peter_Fonda> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/New_York> <http://dbpedia.org/ontology/largestCity> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Jane_Fonda> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/New_York> .
+<http://dbpedia.org/resource/Peter_Fonda> <http://dbpedia.org/ontology/parent> <http://dbpedia.org/resource/Frances_Ford_Seymour> .

@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Hal_Roach> <http://dbpedia.org/ontology/deathCause> <http://dbpedia.org/resource/Pneumonia> .
+<http://dbpedia.org/resource/Jack_LaLanne> <http://dbpedia.org/ontology/deathCause> <http://dbpedia.org/resource/Pneumonia> .
+<http://dbpedia.org/resource/Jack_LaLanne> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/George_McFarland> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Jack_LaLanne> <http://dbpedia.org/ontology/hometown> <http://dbpedia.org/resource/California> .
+<http://dbpedia.org/resource/Harold_Lloyd> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/California> .

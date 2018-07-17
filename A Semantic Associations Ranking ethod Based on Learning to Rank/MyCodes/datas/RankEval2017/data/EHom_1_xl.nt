@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Ad_Valvas> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/VU_University_Amsterdam> .
+<http://dbpedia.org/resource/Ad_Valvas> <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/Amsterdam> .
+<http://dbpedia.org/resource/Nikolaos_van_Dam> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Amsterdam> .
+<http://dbpedia.org/resource/Nikolaos_van_Dam> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/University_of_Amsterdam> .

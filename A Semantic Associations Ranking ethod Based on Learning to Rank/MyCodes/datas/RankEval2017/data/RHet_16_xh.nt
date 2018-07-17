@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Velvet_Goldmine> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Todd_Haynes> .
+<http://dbpedia.org/resource/Poison_(film)> <http://dbpedia.org/ontology/editing> <http://dbpedia.org/resource/Todd_Haynes> .
+<http://dbpedia.org/resource/Carol_(film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Todd_Haynes> .
+<http://dbpedia.org/resource/Carol_(film)> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Christine_Vachon> .
+<http://dbpedia.org/resource/Far_from_Heaven> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Christine_Vachon> .

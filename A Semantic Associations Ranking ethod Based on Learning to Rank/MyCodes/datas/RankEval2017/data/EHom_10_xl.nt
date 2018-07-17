@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Viking_Press> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/David_Petraeus> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/All_In:_The_Education_of_General_David_Petraeus> <http://dbpedia.org/ontology/nonFictionSubject> <http://dbpedia.org/resource/David_Petraeus> .
+<http://dbpedia.org/resource/All_In:_The_Education_of_General_David_Petraeus> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/Penguin_Group> .

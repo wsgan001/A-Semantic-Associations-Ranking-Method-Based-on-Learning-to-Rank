@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Edward_Scissorhands> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Tim_Burton> .
+<http://dbpedia.org/resource/Edward_Scissorhands> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Denise_Di_Novi> .
+<http://dbpedia.org/resource/Batman_Returns> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Denise_Di_Novi> .
+<http://dbpedia.org/resource/Batman_Returns> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Michael_Keaton> .
+<http://dbpedia.org/resource/Little_Women_(1994_film)> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Denise_Di_Novi> .
+<http://dbpedia.org/resource/Little_Women_(1994_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Winona_Ryder> .

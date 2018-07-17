@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Viking_Press>
+<http://dbpedia.org/resource/Penguin_Group>

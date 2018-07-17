@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Friends> <http://dbpedia.org/ontology/executiveProducer> <http://dbpedia.org/resource/Wil_Calhoun> .
+<http://dbpedia.org/resource/Jesse_(TV_series)> <http://dbpedia.org/ontology/executiveProducer> <http://dbpedia.org/resource/Wil_Calhoun> .
+<http://dbpedia.org/resource/Jesse_(TV_series)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Sitcom> .
+<http://dbpedia.org/resource/Seinfeld> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Sitcom> .

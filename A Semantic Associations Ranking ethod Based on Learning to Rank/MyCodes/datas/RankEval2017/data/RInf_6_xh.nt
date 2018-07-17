@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Quaid-i-Azam_University> <http://dbpedia.org/ontology/chancellor> <http://dbpedia.org/resource/President_of_Pakistan> .
+<http://dbpedia.org/resource/Quaid-i-Azam_University> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Pakistan> .
+<http://dbpedia.org/resource/Pakistan> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Mamnoon_Hussain> .
+<http://dbpedia.org/resource/Raheel_Sharif> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/Mamnoon_Hussain> .

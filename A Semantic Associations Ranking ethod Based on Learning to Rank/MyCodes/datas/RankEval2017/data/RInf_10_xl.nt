@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Monty_Python's_Life_of_Brian> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/John_Cleese> .
+<http://dbpedia.org/resource/Monty_Python's_Life_of_Brian> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Terry_Gilliam> .
+<http://dbpedia.org/resource/Parrot_Sketch_Not_Included_–_20_Years_of_Monty_Python> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Terry_Gilliam> .
+<http://dbpedia.org/resource/Parrot_Sketch_Not_Included_–_20_Years_of_Monty_Python> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Graham_Chapman> .

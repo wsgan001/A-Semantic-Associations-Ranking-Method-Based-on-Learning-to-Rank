@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hillel_Slovak> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Hollywood> .
+<http://dbpedia.org/resource/Good_Time_Boys> <http://dbpedia.org/ontology/recordedIn> <http://dbpedia.org/resource/Hollywood> .
+<http://dbpedia.org/resource/Good_Time_Boys> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Red_Hot_Chili_Peppers> .
+<http://dbpedia.org/resource/Jack_Irons> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/Red_Hot_Chili_Peppers> .
+<http://dbpedia.org/resource/Red_Hot_Chili_Peppers> <http://dbpedia.org/ontology/formerBandMember> <http://dbpedia.org/resource/Jack_Sherman_(guitarist)> .

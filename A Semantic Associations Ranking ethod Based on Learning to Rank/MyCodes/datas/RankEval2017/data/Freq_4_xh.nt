@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Laverne_&_Shirley> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Garry_Marshall> .
+<http://dbpedia.org/resource/Laverne_&_Shirley> <http://dbpedia.org/ontology/composer> <http://dbpedia.org/resource/Jack_Hayes_(composer)> .
+<http://dbpedia.org/resource/Jack_Hayes_(composer)> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Barbara_Marshall> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_States> .

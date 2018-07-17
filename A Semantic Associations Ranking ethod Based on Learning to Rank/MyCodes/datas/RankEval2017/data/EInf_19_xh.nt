@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Jane_Fonda> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Peter_Fonda> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Dennis_Tinerino> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Dennis_Tinerino> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/California> .
+<http://dbpedia.org/resource/Henry_Fonda> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/California> .

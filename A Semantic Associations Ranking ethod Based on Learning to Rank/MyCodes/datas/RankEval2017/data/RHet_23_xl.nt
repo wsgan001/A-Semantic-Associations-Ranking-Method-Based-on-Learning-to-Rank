@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Intel> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Semiconductor> .
+<http://dbpedia.org/resource/Silego_Technology_Inc.> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Semiconductor> .
+<http://dbpedia.org/resource/Silego_Technology_Inc.> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/IBM> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Hewlett-Packard> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Dell> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/United_States> .

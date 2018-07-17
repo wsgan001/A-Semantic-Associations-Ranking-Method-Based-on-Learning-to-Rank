@@ -1,0 +1,3 @@
+<http://dbpedia.org/resource/Juan_Carlos_I_of_Spain>
+<http://dbpedia.org/resource/Leonor,_Princess_of_Asturias>
+<http://dbpedia.org/resource/Queen_Letizia_of_Spain>

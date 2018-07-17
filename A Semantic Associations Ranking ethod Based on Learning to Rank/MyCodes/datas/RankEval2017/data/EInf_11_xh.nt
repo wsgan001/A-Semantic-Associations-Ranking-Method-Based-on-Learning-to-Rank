@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/The_Tactful_Saboteur> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Frank_Herbert> .
+<http://dbpedia.org/resource/The_Tactful_Saboteur> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/On_the_Air_(TV_series)> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/On_the_Air_(TV_series)> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/David_Lynch> .
+<http://dbpedia.org/resource/I_Just_Make_Them_Up,_See!> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/I_Just_Make_Them_Up,_See!> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Isaac_Asimov> .

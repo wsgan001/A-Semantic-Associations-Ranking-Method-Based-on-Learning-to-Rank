@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Committee_of_the_Whole_(short_story)> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Frank_Herbert> .
+<http://dbpedia.org/resource/Committee_of_the_Whole_(short_story)> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Washington,_D.C.> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/David_Lynch> <http://dbpedia.org/ontology/hometown> <http://dbpedia.org/resource/Washington,_D.C.> .
+<http://dbpedia.org/resource/Living_Space> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Living_Space> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Isaac_Asimov> .

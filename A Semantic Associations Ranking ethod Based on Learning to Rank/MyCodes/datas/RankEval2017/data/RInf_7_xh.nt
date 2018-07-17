@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Germany> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Angela_Merkel> .
+<http://dbpedia.org/resource/Berlin> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Germany> .
+<http://dbpedia.org/resource/Federal_Ministry_of_Finance_(Germany)> <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/Berlin> .
+<http://dbpedia.org/resource/Federal_Ministry_of_Finance_(Germany)> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Wolfgang_Schäuble> .

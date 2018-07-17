@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Juliana_of_the_Netherlands> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/The_Hague> .
+<http://dbpedia.org/resource/Holland> <http://dbpedia.org/ontology/part> <http://dbpedia.org/resource/The_Hague> .
+<http://dbpedia.org/resource/Netherlands> <http://www.w3.org/2002/07/owl#differentFrom> <http://dbpedia.org/resource/Holland> .
+<http://dbpedia.org/resource/Netherlands> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Willem-Alexander_of_the_Netherlands> .

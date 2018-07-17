@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Nanga_Parbat> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Pakistan> .
+<http://dbpedia.org/resource/K2> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Pakistan> .
+<http://dbpedia.org/resource/Gasherbrum_I> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Pakistan> .
+<http://dbpedia.org/resource/Indus_River> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Pakistan> .
+<http://dbpedia.org/resource/Indus_River> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/China> .
+<http://dbpedia.org/resource/Broad_Peak> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/China> .

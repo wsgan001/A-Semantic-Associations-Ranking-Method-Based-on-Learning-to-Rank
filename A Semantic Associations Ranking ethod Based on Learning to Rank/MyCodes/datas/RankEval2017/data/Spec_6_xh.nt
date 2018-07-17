@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Palace_of_Westminster> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Gerry_Ashmore> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Gerry_Ashmore> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/England> .
+<http://dbpedia.org/resource/Westminster_Abbey> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/England> .

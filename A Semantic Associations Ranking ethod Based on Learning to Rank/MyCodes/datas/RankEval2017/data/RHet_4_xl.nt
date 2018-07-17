@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Star_Wars_Episode_III:_Revenge_of_the_Sith> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Natalie_Portman> .
+<http://dbpedia.org/resource/Star_Wars_Episode_III:_Revenge_of_the_Sith> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/George_Lucas> .
+<http://dbpedia.org/resource/Laugh_It_Up,_Fuzzball:_The_Family_Guy_Trilogy> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/George_Lucas> .
+<http://dbpedia.org/resource/Laugh_It_Up,_Fuzzball:_The_Family_Guy_Trilogy> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Mila_Kunis> .

@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Douglas_Hofstadter> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Flemish_people> <http://dbpedia.org/ontology/populationPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Flemish_people> <http://dbpedia.org/ontology/related> <http://dbpedia.org/resource/Dutch_people> .
+<http://dbpedia.org/resource/M._C._Escher> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Dutch_people> .

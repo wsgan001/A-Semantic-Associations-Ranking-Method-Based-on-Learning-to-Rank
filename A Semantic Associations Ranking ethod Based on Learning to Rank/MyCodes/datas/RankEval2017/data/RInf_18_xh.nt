@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Bank_of_America_Center_(Tulsa)> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Bank_of_America> .
+<http://dbpedia.org/resource/Bank_of_America_Center_(Tulsa)> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Steven_Reinemund> <http://dbpedia.org/ontology/stateOfOrigin> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Steven_Reinemund> <http://dbpedia.org/ontology/board> <http://dbpedia.org/resource/American_Express> .
+<http://dbpedia.org/resource/Chase_Tower_(Chicago)> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Chase_(bank)> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Chase_Tower_(Chicago)> .

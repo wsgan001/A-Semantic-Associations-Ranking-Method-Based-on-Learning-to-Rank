@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Viking_Press> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Marvel_Entertainment> <http://dbpedia.org/ontology/regionServed> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Marvel_Entertainment> <http://dbpedia.org/ontology/regionServed> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Penguin_Group> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> .

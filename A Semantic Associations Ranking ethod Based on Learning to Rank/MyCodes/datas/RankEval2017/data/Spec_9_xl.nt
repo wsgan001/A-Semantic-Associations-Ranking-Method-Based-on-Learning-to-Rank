@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Che_Guevara> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Argentina> .
+<http://dbpedia.org/resource/Latin_Americans> <http://dbpedia.org/ontology/populationPlace> <http://dbpedia.org/resource/Argentina> .
+<http://dbpedia.org/resource/Latin_Americans> <http://dbpedia.org/ontology/populationPlace> <http://dbpedia.org/resource/Venezuela> .
+<http://dbpedia.org/resource/Hugo_Chávez> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Venezuela> .

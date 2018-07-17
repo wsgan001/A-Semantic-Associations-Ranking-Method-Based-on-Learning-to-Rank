@@ -1,0 +1,4 @@
+<http://dbpedia.org/resource/Operation_Khyber> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/President_of_Pakistan> .
+<http://dbpedia.org/resource/Operation_Khyber> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Raheel_Sharif> .
+<http://dbpedia.org/resource/Operation_Khyber> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Nawaz_Sharif> .
+<http://dbpedia.org/resource/Nawaz_Sharif> <http://dbpedia.org/ontology/president> <http://dbpedia.org/resource/Asif_Ali_Zardari> .

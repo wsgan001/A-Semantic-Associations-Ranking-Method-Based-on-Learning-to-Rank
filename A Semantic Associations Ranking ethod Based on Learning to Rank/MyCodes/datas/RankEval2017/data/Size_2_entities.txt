@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/Battle_of_Gettysburg>
+<http://dbpedia.org/resource/First_Battle_of_Bull_Run>

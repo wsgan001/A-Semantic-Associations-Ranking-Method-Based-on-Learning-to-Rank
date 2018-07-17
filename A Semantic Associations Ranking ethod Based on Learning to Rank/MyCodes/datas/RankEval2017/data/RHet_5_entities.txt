@@ -1,0 +1,2 @@
+<http://dbpedia.org/resource/VU_University_Amsterdam>
+<http://dbpedia.org/resource/University_of_Amsterdam>
